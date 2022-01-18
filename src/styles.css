@@ -1,0 +1,20 @@
+.App {
+  /* font-family: sans-serif;
+  text-align: center; */
+  display: grid;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 12fr;
+  grid-gap: 5px;
+  grid-template-areas:
+    "head head"
+    "side main";
+}
+.head {
+  grid-area: head;
+  background-color: #9D3ED5	;
+}
+.head img {
+  width: 50px;
+}
+
+

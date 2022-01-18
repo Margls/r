@@ -1,0 +1,23 @@
+.sidebar {
+    grid-area: side;
+    background-color: #CB0077;
+    color: white;
+    font-size: 20px;
+    text-decoration:none;
+  }
+  .sidebar li {
+    list-style-type: none;
+    padding-bottom: 10px;
+  }
+  .sidebar li:last-child {
+    padding-top: 25px;
+  }
+
+a
+{
+    text-decoration:none;
+     color: white; 
+}
+a:hover{
+    color: #D49EE0;
+}

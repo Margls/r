@@ -1,0 +1,15 @@
+.main {
+    grid-area: main;
+    background-color: #9D3ED5	;
+    color: white;
+    
+    
+  }
+  .profile_bg img {
+    width: 100%;
+    height: auto;
+    background-size: cover;
+  }
+  .profile_user{
+    padding-left: 10px;
+  }

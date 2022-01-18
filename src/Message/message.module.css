@@ -1,0 +1,21 @@
+.Message{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-color: #E567B1;
+    color: white;
+}
+.dialog_users{
+   
+}
+.line {
+    border-bottom: 1px solid white; /* Параметры линии */
+   }
+.dialog_name{
+    padding: 10px;
+}
+.chats{
+
+}
+.chat{
+    padding: 10px;
+}
